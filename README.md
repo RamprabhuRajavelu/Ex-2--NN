@@ -1,5 +1,5 @@
-<H3>Name : SAILESHKUMAR A </H3>
-<H3>Register no: 212222230126</H3>
+<H3>Name : RAMPRABHU R </H3>
+<H3>Register no: 212222040129 </H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
